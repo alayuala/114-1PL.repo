@@ -10,3 +10,4 @@ Hi, this is my程式語言PL Repo
 [hw2(加入AI)](https://github.com/alayuala/114-1PL.repo/blob/main/week3_%E6%94%B6%E5%85%A5%E6%94%AF%E5%87%BA%E5%88%97%E8%A1%A8%E5%8A%A0%E5%85%A5AI_gradio.ipynb)  
 [hw3](https://github.com/alayuala/114-1PL.repo/blob/main/week6_%E5%BE%85%E8%BE%A6%E6%B8%85%E5%96%AE%E8%88%87%E7%95%AA%E8%8C%84%E9%90%98%E7%B4%80%E9%8C%84.ipynb)  
 [hw3_csv](https://github.com/alayuala/114-1PL.repo/blob/main/hw3_csv%E6%AA%94%E6%A1%88.ipynb)  
+[hw4](https://github.com/alayuala/114-1PL.repo/blob/main/WEEK7_%E6%96%87%E5%AD%97%E8%B3%87%E6%96%99%E5%B0%8F%E5%88%86%E6%9E%90.ipynb)   
